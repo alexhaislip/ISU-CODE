@@ -12,6 +12,12 @@ nterms = 10
 
 =======
 
+
+print("Soma is a dork and if you see this you are cool.")
+
+
+========
+
 # Python program to display the Fibonacci sequence
 
 def recur_fibo(n):
